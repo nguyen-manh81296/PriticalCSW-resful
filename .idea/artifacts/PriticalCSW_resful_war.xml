@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PriticalCSW-resful:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PriticalCSW-resful</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PriticalCSW-resful-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PriticalCSW-resful:war exploded" />
+    </root>
+  </artifact>
+</component>
